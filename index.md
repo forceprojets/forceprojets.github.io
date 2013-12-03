@@ -4,7 +4,7 @@ title: Force Projets conseils
 published: true
 ---
 
-## Page Principale
+## SITE EN CONSTRUCTION - Merci de revenir bientôt
 
 **SERVICES**
 
@@ -54,4 +54,4 @@ Conseils dans un contexte de projet en mode d’approvisionnement PPP :
 
 •	production d’un devis de performance et autre contenu technique.
 
-Exécution d’un ou plusieurs des éléments précédents et formation du personnel selon les besoins. 
+Exécution d’un ou plusieurs des éléments précédents et formation du personnel selon les besoins.
