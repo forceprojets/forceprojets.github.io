@@ -9,6 +9,7 @@ published: true
 **SERVICES**
 
 **Gestion de projet**
+
 Mise en place ou amélioration des processus et méthodologies reliés aux domaines de connaissance suivants:
 •	Gestion de l’intégration;
 •	Gestion de l’envergure (contenu);
@@ -31,6 +32,7 @@ Conseils ou production des livrables suivants reliés aux étapes d’avant-proj
 Conseils par rapport à la mise en place d’un bureau de projet.
  
 **Devis de performance**
+
 Conseils dans un contexte de projet en mode d’approvisionnement PPP :
 •	structure de projet;
 •	mise en place et gestion d’une équipe projet;
