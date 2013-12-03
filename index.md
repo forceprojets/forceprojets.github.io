@@ -1,17 +1,40 @@
 ---
 layout: tactile
-title: Force Projets
+title: Force Projets conseils
 published: true
 ---
 
 ## Page Principale
 
-__Salut Louis__
+**SERVICES**
 
-1. Si tu vois un bouton vert en bas à droite, apuis le pour te loger sur GitHub. C'est la qu'est ton site web. Le mot de passe est dans le Access Code document a l'endrois habituel.
-1. Entre ton text ici. Utilise soit les **boutons en haut** ou la notation "Markdown" (clique sur le Point d'interogation sur la toolbar) pour plus de flexibilité.
-1. Clique sur le bouton de sauvegarde a droite, entre une description rapide (eg: Mise à jour du texte), et appuis sur "Submit Change Request/Commit"
+**Gestion de projet**
+Mise en place ou amélioration des processus et méthodologies reliés aux domaines de connaissance suivants:
+•	Gestion de l’intégration;
+•	Gestion de l’envergure (contenu);
+•	Gestion des échéanciers;
+•	Gestion des coûts;
+•	Gestion de la qualité;
+•	Gestion des communications;
+•	Gestion des risques;
+•	Gestion des approvisionnements;
+•	Gestion des parties prenantes.
 
-Ca peut prendre quelques minutes pour que le texte soit mis a jour sur le site. Tu peus prévisualiser avec le bouton "eye" à la droite. Le texte va se merger avec le style du site web seulement une fois sur le site.
+Exécution d’un ou plusieurs de ces éléments et formation du personnel selon les besoins.
 
-A+
+Conseils ou production des livrables suivants reliés aux étapes d’avant-projet:
+•	Définition des besoins;
+•	Analyses de préfaisabilité ou de faisabilité (marché, technique, financière, organisationnelles).
+
+Évaluation de la maturité en gestion de projet  (audits) ;
+
+Conseils par rapport à la mise en place d’un bureau de projet.
+ 
+**Devis de performance**
+Conseils dans un contexte de projet en mode d’approvisionnement PPP :
+•	structure de projet;
+•	mise en place et gestion d’une équipe projet;
+•	structure de la documentation technique; 
+•	production d’un devis de performance et autre contenu technique.
+
+Exécution d’un ou plusieurs des éléments précédents et formation du personnel selon les besoins. 
