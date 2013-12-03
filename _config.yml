@@ -1,0 +1,7 @@
+name: Force Projets
+markdown: redcarpet
+markdown_ext: md
+pygments: true
+
+# Automatically regenerates _site when src changes
+auto: true
