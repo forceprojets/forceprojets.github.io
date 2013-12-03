@@ -11,14 +11,23 @@ published: true
 **Gestion de projet**
 
 Mise en place ou amélioration des processus et méthodologies reliés aux domaines de connaissance suivants:
+
 •	Gestion de l’intégration;
+
 •	Gestion de l’envergure (contenu);
+
 •	Gestion des échéanciers;
+
 •	Gestion des coûts;
+
 •	Gestion de la qualité;
+
 •	Gestion des communications;
+
 •	Gestion des risques;
+
 •	Gestion des approvisionnements;
+
 •	Gestion des parties prenantes.
 
 Exécution d’un ou plusieurs de ces éléments et formation du personnel selon les besoins.
