@@ -6,9 +6,9 @@ published: true
 
 ## SITE EN CONSTRUCTION - Merci de revenir bientôt
 
-**SERVICES**
+## Services
 
-**Gestion de projet**
+### Gestion de projet
 
 Mise en place ou amélioration des processus et méthodologies reliés aux domaines de connaissance suivants:
 
@@ -33,7 +33,7 @@ Conseils ou production des livrables suivants reliés aux étapes d’avant-proj
 
 Conseils par rapport à la mise en place d’un bureau de projet.
  
-**Devis de performance**
+### Devis de performance
 
 Conseils dans un contexte de projet en mode d’approvisionnement PPP :
 
