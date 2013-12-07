@@ -5,12 +5,10 @@
 			{% if page.url == link.url %}
 				{% assign selected = ' selected' %}
 			{% endif %}
-			{% if page.url == '/index.html' or page.url == link.url %}
-				<li class="menu{{selected}}" {% if selected == nil %} onclick="window.location='.{{link.url}}'" {% endif %}>
+			<li class="menu{{selected}}">
 <!-- 				<img src="resources/{{link.url| remove:'/'|remove:'.html'}}.png">
- -->				<a href="{{site.url}}{{link.url}}">{{link.text}}</a>
-				</li>
-			{% endif %}
+-->				<a href="{{site.url}}{{link.url}}">{{link.text}}</a>
+			</li>
 		{% endfor %}
  	</ul>
 </nav>
