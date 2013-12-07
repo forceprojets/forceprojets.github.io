@@ -1,7 +1,14 @@
 name: Force Projets
 markdown: redcarpet
 markdown_ext: md
-pygments: true
 
-# Automatically regenerates _site when src changes
-auto: true
+url: http://forceprojets.ca
+
+navigation:
+  - text: Index
+    url: /index.html
+  - text: Mission et Valeurs
+    url: /mission.html
+  - text: Projets
+    url: /projets.html
+

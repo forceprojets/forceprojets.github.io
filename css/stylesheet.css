@@ -65,7 +65,6 @@ a:hover {
 
 header {
   padding-top: 35px;
-  padding-bottom: 25px;
 }
 
 header h1 {
@@ -247,12 +246,12 @@ h1 {
 h2 {
   font-size: 22px;
   font-weight: bold;
-  color: #303030;
+  color: #666666;
   margin-bottom: 8px;
 } 
 
 h3 {
-  color: #d5000d;
+  color: #666666;
   font-size: 18px;
   font-weight: bold;
   margin-bottom: 8px;
@@ -369,3 +368,33 @@ footer a:hover {
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) {}
+
+header #logo {
+  display: block;
+  padding-left: 200px;
+  text-align: right;
+}
+header nav {
+  display: block;
+  width: 200px;
+  float: left;
+}
+header nav #menu {
+  margin-top: 14px;
+  margin-bottom: 0;
+}
+header nav #menu li {
+  list-style: none;
+  padding-left: 0;
+}
+
+header nav a, header nav a:visited {
+  color: #888888;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+header nav #menu li.selected a, header nav #menu a:hover {
+  color: #444444;
+}
+

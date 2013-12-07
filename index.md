@@ -1,6 +1,6 @@
 ---
-layout: tactile
 title: Force Projets conseils
+layout: default
 published: true
 ---
 
