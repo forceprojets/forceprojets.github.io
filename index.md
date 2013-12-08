@@ -4,8 +4,6 @@ layout: default
 published: true
 ---
 
-## SITE EN CONSTRUCTION - Merci de revenir bientôt
-
 ## Services
 
 ### Gestion de projet
