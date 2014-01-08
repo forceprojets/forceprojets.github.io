@@ -1,5 +1,5 @@
 ---
-title: Projet 1
+title: A propos
 layout: default
 published: false
 ---
