@@ -4,6 +4,6 @@ layout: default
 published: true
 ---
 
-## Nos Projets
+## Projets
 
 A Venir Très Bientôt...
