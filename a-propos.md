@@ -1,7 +1,7 @@
 ---
 title: A Propos
 layout: default
-published: false
+published: true
 ---
 
 Force Projets conseils, c’est une expertise spécialisée dans le domaine de la gestion de projets techniques. Son fondateur, Louis Duchesne, possède une vingtaine d’années d’expérience dans divers domaines d’affaires dont l’aéronautique, l’énergie, le bâtiment commercial et industriel, le traitement de l’eau, les alumineries, le ferroviaire ainsi que plusieurs grands projets d’infrastructures publiques.
