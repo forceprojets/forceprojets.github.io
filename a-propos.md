@@ -12,8 +12,10 @@ M. Duchesne a connu des contextes de projets variés, allant de la petite entrep
 
 Cette expérience, ses connaissances et ses autres capacités spécifiques acquises au fil des projets garantissent aux clients de Force Projets conseils une expertise poussée, au fait des dernières tendances et meilleures pratiques en gestion de projet, mais surtout adaptée au contexte et à la nature des entreprises ou organismes et de leurs projets.
 
-CONTACT : Louis Duchesne, Force Projets conseils
+****CONTACT :**** Louis Duchesne, Force Projets conseils
 
-louis@forceprojets.ca
+****louis@forceprojets.ca****
 
-514-602-5000
+##
+
+****514-602-5000****
