@@ -5,8 +5,10 @@ markdown_ext: md
 url: http://forceprojets.ca
 
 navigation:
+  - text: index
+  	url: /index.html
   - text: Services
-    url: /index.html
+    url: /services.html
   - text: Projets
     url: /projets.html
   - text: Mission et Valeurs
