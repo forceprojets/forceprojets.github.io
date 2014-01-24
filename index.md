@@ -4,7 +4,7 @@ layout: default
 published: true
 ---
 
-## Pourquoi faire appel à Force Projets conseils?
+## Pour tous vos besoins en gestion de projet :
 
 - Vous devez réaliser un projet de plus grande envergure ou de nature différente de vos projets habituels.
 
@@ -41,4 +41,4 @@ Une compréhension générale des contraintes et enjeux techniques de plusieurs 
 
 Une compréhension de l’importance de la gestion du changement (le côté humain des projets) : parce que l’individu est souvent au cœur du projet et de sa réussite. Les aspects de gestion du changement doivent être considérés au même titre que ceux organisationnels et méthodologiques.
 
-Une connaissance des méthodologies agiles, ses bénéfices mais aussi ses limites en fonction de la nature et du contexte de vos projets. L’agilité est en plein essor et doit être considéré à juste titre comme une option possible pour réaliser les objectifs de votre organisation. 
+Une connaissance des méthodologies agiles, ses bénéfices mais aussi ses limites en fonction de la nature et du contexte de vos projets. L’agilité est en plein essor et doit être considéré à juste titre comme une option possible pour réaliser les objectifs de votre organisation.
