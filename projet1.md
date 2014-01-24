@@ -1,7 +1,7 @@
 ---
 title: Projet1
 layout: default
-published: false
+published: true
 ---
 
 ## Structures de projet
