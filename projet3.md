@@ -4,13 +4,13 @@ layout: default
 published: true
 ---
 
-## Gestion de l'envergure
+## Gestion de l'envergure (contenu)
 ### Centre d’entretien Pointe St-Charles
 ### Agence métropolitaine de transport (avec Groupe SM)
 ### 2011-2012
 
-Les activités reliées à la gestion de l'envergure comprenaient:
-- Le plan de gestion (projet PPP)
+Les activités étaient reliées à la gestion de l'envergure des livrables d'ingénierie du projet PPP et comprenaient:
+- Le plan de gestion
 - Le processus et les outils
 - L'exécution des activités
 
