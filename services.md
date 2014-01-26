@@ -1,3 +1,8 @@
+---
+title: Services
+layout: default
+published: true
+---
 ## Des services adaptés à vos besoins
 
 ### Petites et moyennes entreprises

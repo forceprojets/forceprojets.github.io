@@ -1,3 +1,8 @@
+---
+title: Projet
+layout: default
+published: true
+---
 ## Gestion de la qualité
 ### Projet Eastmain-La-Sarcelle
 ### Société d’Énergie de la Baie-James (avec Groupe SM)
