@@ -4,7 +4,7 @@ layout: default
 published: true
 ---
 
-## Quels que soient vos besoins en gestion de projet :
+## Pour vos besoins en gestion de projet :
 
 - Nouveau projet ou opportunité
 
