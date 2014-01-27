@@ -19,7 +19,7 @@ published: true
 - Besoin d'une expertise spécialisée ou de complémenter temporairement votre équipe  
 
 
-### L’expertise en gestion de projet à votre service
+## L’expertise en gestion de projet à votre service
 
 Force Projets peut vous aider à mettre en place ou améliorer vos processus, méthodologies et outils en gestion de projet. 
 
@@ -28,7 +28,7 @@ Force Projets peut vous conseiller dans tout ce qui touche la mise en place d’
 L’objectif : votre excellence en gestion de projet et l’amélioration des performances de votre organisation.
 
 
-### Ce qui distingue Force Projets
+## Ce qui distingue Force Projets
 
 Une vaste expérience de plusieurs domaines d’affaires et une maîtrise des grands principes, méthodologies et domaines de connaissance de la gestion de projet.
 
