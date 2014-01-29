@@ -8,7 +8,7 @@ published: true
 ### Projets IP et Abitibi-Belgo
 ### 2007
 
-Dans le cadre d'un emploi avec l'entreprise Oxycair, les activités de mise en place d'une structure de projet ont consisé en :
+Les activités de mise en place d'une structure de projet ont eu lieu dans le cadre d'un emploi avec une entreprise spécialisée dans le traitement des eaux usées et ont consisé en :
 - Faire un état de la situation
 - Établir les responsabilités des différents départements 
 - Élaborer les processus de gestion de projet incluant:
