@@ -6,10 +6,10 @@ published: true
 
 ## Gestion de l'envergure (contenu)
 ### Centre d’entretien Pointe St-Charles
-### Agence métropolitaine de transport (avec Groupe SM)
+### Agence métropolitaine de transport
 ### 2011-2012
 
-Les activités étaient reliées à la gestion de l'envergure des livrables d'ingénierie du projet PPP et comprenaient:
+Les activités étaient reliées à la gestion de l'envergure des livrables d'ingénierie du projet PPP. Elles ont eu lieu dans le cadre d’un emploi au sein d’une grande firme d’ingénierie et comprenaient:
 - Le plan de gestion
 - Le processus et les outils
 - L'exécution des activités
