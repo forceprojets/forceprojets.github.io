@@ -6,7 +6,7 @@ published: true
 
 ## Gestion des coûts
 ## Réaménagement de l’échangeur Dorval
-## Ministère des Transports
+## Ministère des Transports du Québec
 ## 2009-2010
 
 Les activités ont eu lieu au sein d'un consortium de trois grandes firmes d'ingénierie ayant le mandat avec avec le MTQ et comprenaient les éléments suivants: 
