@@ -43,8 +43,29 @@ header #logo {
 
 }
 
+header nav {
+    margin-top: -66px;
+}
+
+header #menu li {
+  display: inline-block;
+  color: #808080;
+}
+
+header #menu {
+  float: right;
+}
+
+header #menu a {
+  color: #808080;
+}
+
+header #menu .selected a {
+  color: #00e5e7;
+}
+
 header .lead {
-  margin: 80px auto;
+  margin: 160px auto;
   font-size: 36px;
   font-family: OrcinSans-Light, mono; 
   color: #00e5e7;
@@ -53,6 +74,7 @@ header .lead {
 
 .domaines {
   text-align: center;
+  margin-top: 80px;
 }
 
 .domaines h2 {
