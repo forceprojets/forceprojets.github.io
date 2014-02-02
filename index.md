@@ -1,6 +1,6 @@
 ---
 title: Force Projets conseils
-layout: default
+layout: main
 published: true
 ---
 

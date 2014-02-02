@@ -1,0 +1,70 @@
+/*****************************************************************************/
+/*
+/* Common
+/*
+/*****************************************************************************/
+@font-face {
+    font-family: 'OrcinSans-Light';
+    src: url('../fonts/webfonts/29C7D6_0_0.eot');
+    src: url('../fonts/webfonts/29C7D6_0_0.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/webfonts/29C7D6_0_0.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h2 {
+  color: #00e5e7;
+  font-family: 'OrcinSans-Light';
+  font-size: 22px;
+}
+
+body {
+  color: white;
+  background-image: url('../images/bg_dark.png');
+
+}
+
+.bg-container {
+  background: url('../images/cog.jpg') no-repeat;
+  background-size: cover;
+}
+
+header {
+  height: 300px;
+}
+
+header.default {
+  height: 160px;
+}
+
+header #logo {
+  margin: 20px auto auto 10px;
+
+}
+
+header .lead {
+  margin: 80px auto;
+  font-size: 36px;
+  font-family: OrcinSans-Light, mono; 
+  color: #00e5e7;
+  text-align: center;
+}
+
+.domaines {
+  text-align: center;
+}
+
+.domaines h2 {
+  font-family: 'OrcinSans-Light';
+  font-size: 18px;
+  color: #00e5e7;
+}
+
+.domaines img {
+  width: 110px;
+}
+
+footer {
+  height: 200px;
+}

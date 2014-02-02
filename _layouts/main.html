@@ -29,13 +29,27 @@
   </head>
 
   <body>
+    <div class="bg-container">
     <div class="container">
-      <header class="default">
+      <header>
         <img id="logo" src="images/logo-cyan.svg" width="240px" alt="logo">
+        <div class="lead">{{ site.intro }}</div>
       </header>
 
-      <div>
-      {{ content }}
+      <div class="domaines">
+
+      {% for dom in site.domaines %}
+        {% cycle 'add rows': '<div class="row">', nil, nil %}
+          <div class="col-sm-4">
+            <img class="img-circle" src="images/{{ dom.image }}" alt="{{ dom.link }}">
+            <h2>{{ dom.title }}</h2>
+            <p>{{ dom.description }}</p>
+            <p><a class="btn btn-default" href="{{ dom.link }}.html" role="button">Détails &raquo;</a></p>
+          </div><!-- /.col-lg-4 -->
+        {% cycle 'close rows': nil, nil, '</div><!-- row -->' %}
+      {% endfor %}
+        {% cycle 'close rows': nil, '</div><!-- row -->', '</div><!-- row -->' %}
+
       </div>
 
       <footer>
@@ -44,6 +58,7 @@
  -->      </footer>
 
     </div><!-- /.container -->
+    </div>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->

@@ -4,6 +4,8 @@ markdown_ext: md
 
 url: http://forceprojets.ca
 
+intro: Une Expertise de Pointe en Gestion de Projets
+
 navigation:
   - text: Accueil
     url: /index.html
@@ -15,5 +17,21 @@ navigation:
     url: /mission.html
   - text: A Propos
     url: /a-propos.html
-    
+
+
+domaines:
+  - title: PME
+    description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+    image: turbine.jpg
+    link: pme
+
+  - title: Grandes Entreprises
+    description: Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.
+    image: aluminium.jpg
+    link: grandes-entreprises
+
+  - title: Fonction Publique
+    description: Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius.
+    image: metro.jpg
+    link: publique
 
