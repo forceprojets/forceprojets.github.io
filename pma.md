@@ -4,7 +4,7 @@ layout: default
 published: true
 ---
 
-## Petites ou moyenne entreprise
+## Petites et moyennes entreprises
 
 - Mise en place des structures et méthodes
 - Amélioration continue
