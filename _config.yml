@@ -21,7 +21,7 @@ navigation:
 
 domaines:
   - title: Petites et moyennes entreprises
-    description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+    description: Des services adaptés au contexte de votre entreprise, à votre secteur d'affaires et à vos impératifs de résultats.
     image: turbine.jpg
     link: pme
 
