@@ -23,7 +23,7 @@ domaines:
   - title: Petites et moyennes entreprises
     description: Des services adaptés au contexte de votre entreprise, à votre secteur d'affaires et à vos impératifs de résultats.
     image: turbine.jpg
-    link: pme
+    link: pma
 
   - title: Grandes entreprises
     description: L'expérience des meilleures pratiques en gestion de projet au sein de différentes structures d'entreprise.
@@ -33,5 +33,5 @@ domaines:
   - title: Secteur public
     description: L'expertise des processus et la connaissance des exigences de gouvernance des projets publics.
     image: metro.jpg
-    link: publique
+    link: public
 
