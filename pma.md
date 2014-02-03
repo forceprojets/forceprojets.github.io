@@ -4,7 +4,7 @@ layout: default
 published: true
 ---
 
-## PME
+## Petites ou moyenne entreprise
 
 - Mise en place des structures et méthodes
 - Amélioration continue
