@@ -3,30 +3,8 @@ title: Services
 layout: default
 published: true
 ---
-## Des services adaptés à vos besoins
 
-### Petites et moyennes entreprises
-
-- Mise en place des structures et méthodes
-- Amélioration continue
-- Avant projet
-- Planification de projet
-- Exécution de projet
-
-### Pour la grande entreprise
-
-En plus des services décrits plus haut :
-
-- Bureaux de projet
-
-### Pour les organismes gouvernementaux et municipalités
-
-En plus des services décrits plus haut :
-
-- Conseils et coordination dans un contexte de partenariat public-privé (PPP)
-
-
-## Une expertise spécialisée en gestion de projet
+## Des services adaptés - une expertise spécialisée
 
 Les domaines d’expertise de Force Projets :
 
