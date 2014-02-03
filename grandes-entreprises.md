@@ -4,7 +4,7 @@ layout: default
 published: true
 ---
 
-## Grande entreprise
+## Grandes entreprises
 
 - Mise en place des structures et méthodes
 - Amélioration continue
