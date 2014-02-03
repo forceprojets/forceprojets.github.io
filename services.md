@@ -44,6 +44,7 @@ Conseils par rapport à la mise en place d’un bureau de projet
 Conseils dans un contexte de projet en mode d’approvisionnement PPP et sur l’approche performance :
 
 - Structure de projet;
+
 - Mise en place et gestion d’une équipe projet;
 
 - Structure de la documentation technique; 
