@@ -7,15 +7,15 @@ url: http://forceprojets.ca
 intro: Une expertise de pointe en gestion de projet
 
 navigation:
-  - text: Accueil
+  - text: ACCUEIL
     url: /index.html
-  - text: Services
+  - text: SERVICES
     url: /services.html
-  - text: Projets
+  - text: PROJETS
     url: /projets.html
-  - text: Mission et Valeurs
+  - text: MISSION ET VALEURS
     url: /mission.html
-  - text: A Propos
+  - text: À PROPOS
     url: /a-propos.html
 
 
