@@ -4,6 +4,12 @@ layout: default
 published: true
 ---
 
-## Fonction Publique
+## Organismes publics et municipalités
 
-A Venir Très Bientôt...
+- Mise en place des structures et méthodes
+- Amélioration continue
+- Avant projet
+- Planification de projet
+- Exécution de projet
+- Bureau de projet
+- Direction ou coordination technique dans un contexte PPP
