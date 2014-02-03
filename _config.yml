@@ -13,7 +13,7 @@ navigation:
     url: /services.html
   - text: PROJETS
     url: /projets.html
-  - text: MISSION ET VALEURS
+  - text: MISSION & VALEURS
     url: /mission.html
   - text: À PROPOS
     url: /a-propos.html
