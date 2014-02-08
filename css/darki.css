@@ -13,6 +13,10 @@
 
 }
 
+h1, h3, h4, h5 {
+  color: #e0e0e0 !important;
+}
+
 h2 {
   color: #00e5e7;
   font-family: 'OrcinSans-Light';
@@ -20,7 +24,7 @@ h2 {
 }
 
 body {
-  color: white;
+  color: #d0d0d0;
   background-image: url('../images/bg_dark.png');
 
 }
