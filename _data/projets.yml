@@ -1,12 +1,13 @@
-- activite: Mise en place d'une structure de gestion de projet
+- activite: Structures de projet
   projet: Projets IP et Abitibi-Belgo
-  client: Oxycair Technologies
+  client: 
   date: 2007
   image: 
-  description: 
-  - État de la situation
-  - Définition des responsabilités des différents départements
-  - Élaboration des processus de gestion de projet
+  description:
+  Les activités de mise en place d'une structure de projet ont eu lieu dans le cadre d'un emploi avec une entreprise spécialisée dans le traitement des eaux usées et ont consisé en :
+- Faire un état de la situation
+- Établir les responsabilités des différents départements 
+- Élaborer les processus de gestion de projet incluant:
     - Charte de projet type
     - Plan de gestion de projet type
     - SFT (WBS) type
