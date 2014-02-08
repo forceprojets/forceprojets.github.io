@@ -47,8 +47,12 @@
             <p>{{ proj.date }}</p>
           </div>
           <div class="col-sm-6">
-            <p>{{ proj.description }}</p>
-          </div><!-- /.col-lg-4 -->
+          <ul>
+          {% for point in proj.description %}
+            <li>{{ point }}</li>
+          {% endfor %}
+          </ul>
+          </div>
         </div>
       {% endfor %}
       </div>
