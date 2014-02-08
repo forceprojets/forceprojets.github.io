@@ -22,7 +22,7 @@ navigation:
 domaines:
   - title: Petites et moyennes entreprises
     description: Des services adaptés au contexte de votre entreprise, à votre secteur d'affaires et à vos impératifs de résultats.
-    image: turbine.jpg
+    image: meeting.jpg
     link: pma
 
   - title: Grandes entreprises

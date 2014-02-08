@@ -13,15 +13,20 @@
         <div class="lead">{{ site.intro }}</div>
       </header>
 
+      <div style="text-align:center">
+      {{ content }}
+      </div>
+
       <div class="domaines">
 
       {% for dom in site.domaines %}
         {% cycle 'add rows': '<div class="row">', nil, nil %}
           <div class="col-sm-4">
-            <img class="img-circle" src="images/{{ dom.image }}" alt="{{ dom.link }}">
-            <h2>{{ dom.title }}</h2>
+            <a href="{{ dom.link }}.html" role="button">
+              <img class="img-circle" src="images/{{ dom.image }}" alt="{{ dom.link }}">
+              <h2>{{ dom.title }}</h2>
+            </a>
             <p>{{ dom.description }}</p>
-            <p><a class="btn btn-default" href="{{ dom.link }}.html" role="button">Détails &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
         {% cycle 'close rows': nil, nil, '</div><!-- row -->' %}
       {% endfor %}
