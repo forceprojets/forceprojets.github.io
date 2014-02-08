@@ -1,9 +1,6 @@
 ---
 title: Projets
-layout: default
+layout: projets
 published: true
 ---
 
-## Projets
-
-A Venir Très Bientôt...

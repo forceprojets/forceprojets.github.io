@@ -29,28 +29,28 @@
   </head>
 
   <body>
-    <div class="bg-container">
     <div class="container">
-      <header>
-        <img id="logo" src="images/logo-cyan.svg" width="250px" alt="logo">
-        {% include menu.html %}
-        <div class="lead">{{ site.intro }}</div>
+      <header class="default">
+        <img id="logo" src="images/logo-cyan.svg" width="240px" alt="logo">
       </header>
 
-      <div class="domaines">
-
-      {% for dom in site.domaines %}
-        {% cycle 'add rows': '<div class="row">', nil, nil %}
-          <div class="col-sm-4">
-            <img class="img-circle" src="images/{{ dom.image }}" alt="{{ dom.link }}">
-            <h2>{{ dom.title }}</h2>
-            <p>{{ dom.description }}</p>
-            <p><a class="btn btn-default" href="{{ dom.link }}.html" role="button">Détails &raquo;</a></p>
+      <div>
+      {% for proj in site.data.projets %}
+        <div class="row">
+          <div class="col-sm-2">
+            <img class="img" src="http://placekitten.com/g/250/160" alt="{{ proj.link }}">
+          </div>
+          <div class="col-sm-2">
+            <h2>{{ proj.activite }}</h2>
+            <p>{{ proj.projet }}</p>
+            <p>{{ proj.client }}</p>
+            <p>{{ proj.date }}</p>
+          </div>
+          <div class="col-sm-2">
+            <p>{{ proj.description }}</p>
           </div><!-- /.col-lg-4 -->
-        {% cycle 'close rows': nil, nil, '</div><!-- row -->' %}
+        </div>
       {% endfor %}
-        {% cycle 'close rows': nil, '</div><!-- row -->', '</div><!-- row -->' %}
-
       </div>
 
       <footer>
@@ -59,7 +59,6 @@
  -->      </footer>
 
     </div><!-- /.container -->
-    </div>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
