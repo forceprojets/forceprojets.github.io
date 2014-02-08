@@ -13,9 +13,35 @@
     - Échéancier type
   details:
 
-- activite:
-- projet:
-- client:
-- date:
-- description:
+- activite: 
+  projet: 
+  client: 
+  date: 
+  image: 
+  description: 
+  details:
+
+- activite: 
+  projet: 
+  client: 
+  date: 
+  image: 
+  description: 
+  details:
+
+- activite: 
+  projet: 
+  client: 
+  date: 
+  image: 
+  description: 
+  details:
+
+- activite: 
+  projet: 
+  client: 
+  date: 
+  image: 
+  description: 
+  details:
 
