@@ -1,12 +1,10 @@
 - activite: Structures de projet
   projet: Projets IP et Abitibi-Belgo
-  client: asdf
-  date: 2007
+  client: 2007
+  date:
   image: 
   description: >
     Les activités de mise en place d'une structure de projet ont eu lieu dans le cadre d'un emploi avec une entreprise spécialisée dans le traitement des eaux usées et ont consisé en :
-    
-    
       - Faire un état de la situation
       - Établir les responsabilités des différents départements 
       - Élaborer les processus de gestion de projet incluant:
