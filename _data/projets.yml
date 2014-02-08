@@ -24,30 +24,27 @@
       - L'exécution des activités de projet
       - Le suivi et contrôle des projets
       - Le contrôle des changements
-      - Les autres activités incluant:
-          - Échéanciers
+      - Autres activités réalisées:
+          - Élaboration et mises à jour des échéanciers
           - Suivi des coûts (VA)
-          - Qualité (processus)
-          - Risques
-          - Parties prenantes
+          - Mise en place de processus du système Qualité
+          - Gestion des risques de projet
+          - Gestion des parties prenantes
   details:
 
 - activite: Gestion des risques
   projet: Réaménagement de l’échangeur Dorval
-  client: Ministère des Transports (Bureau de projet, consortium RSA)
+  client: Ministère des Transports du Québec
   date: 2009-2010
   image: 
-  description: 
-    - Plan de gestion
-      - Responsabilités
-      - Méthodologies
-      - Outils
-    - Identification
-    - Analyse (qualitative)
-    - Réponses
-      - Réponse
-      - Action(s)
-    - Contrôle
+  description: >
+    Le mandat comprenaient l'élaboration et la mise en place du plan de gestion. Les activités ont eu lieu au sein d'un consortium de trois grandes firmes d'ingénierie ayant le mandat avec avec le MTQ et comprenaient les éléments suivants :
+      - Les responsabilités
+      - La méthodologie
+      - Les outils
+    Les activités d'identification, d'analyse (qualitative) et les réponses aux risques ont été menées à bien.
+    Le contrôle des risques était réalisé sur une base périodique.
+
   details:
 
 - activite: Gestion des coûts
