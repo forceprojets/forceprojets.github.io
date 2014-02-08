@@ -49,35 +49,38 @@
 
 - activite: Gestion des coûts
   projet: Réaménagement de l’échangeur Dorval
-  client: Ministère des Transports (Bureau de projet, consortium RSA)
+  client: Ministère des Transports du Québec
   date: 2009-2010
   image: 
-  description:
-    - Mise en place des processus et outils de suivi budgétaire
-      - Plan de gestion des coûts
-      - Méthodes de calcul
-      - Méthodes et outils de budgétisation et contrôle des coûts
-    - Mises à jour du budget de projet
-      - Planification de l’exercice budgétaire
-      - Rencontres et analyses
-      - Mises à jour
-      - Contingence budgétaire
+  description: >
+    Les activités ont eu lieu au sein d'un consortium de trois grandes firmes d'ingénierie ayant le mandat avec avec le MTQ et comprenaient les éléments suivants:
+      Mise en place des processus et outils de suivi budgétaire:
+        - Plan de gestion des coûts
+        - Méthodes de calcul
+        - Méthodes et outils de budgétisation et contrôle des coûts
+      Mises à jour du budget de projet:
+        - Planification de l’exercice budgétaire
+        - Rencontres et analyses
+        - Mises à jour
+        - Contingence budgétaire
+
   details:
 
 - activite: Gestion de la qualité
   projet: Projet Eastmain-La-Sarcelle
-  client: Société d’Énergie de la Baie-James (avec Groupe SM)
+  client: Société d’Énergie de la Baie-James
   date: 2008
   image: 
-  description: 
-    - Audits de processus
-      - Planification
-      - Exécution
-      - Recommandations
-    - Amélioration d’un processus
-      - Revue
-      - Analyse
-      - Mise en place des correctifs
+  description: >
+    Le mandat a eu lieu au sein du Consortium Énergie Gérance Eastmain et comprenait les activités suivantes:
+      - Audits de processus
+        - Planification
+        - Exécution
+        - Recommandations
+      - Amélioration d’un processus
+        - Revue
+        - Analyse
+        - Mise en place des correctifs
 
   details:
 
