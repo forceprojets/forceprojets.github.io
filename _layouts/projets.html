@@ -1,31 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <link rel="stylesheet" type="text/css" href="fonts/MyFontsWebfontsKit.css">
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Force Projets">
-    <meta name="Generator" content="Jekyll">
-    <title>{{ page.title }}</title>
-
-    <link rel="shortcut icon" href="assets/ico/favicon.ico">
-
-
-    <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.css" rel="stylesheet">
-
-    <!-- Just for debugging purposes. Don't actually copy this line! -->
-    <!--[if lt IE 9]><script src="assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-
-    <!-- Custom styles -->
-    <link href="css/darki.css" rel="stylesheet">
+  {% include head.html %}
   </head>
 
   <body>
@@ -47,28 +23,20 @@
             <p>{{ proj.date }}</p>
           </div>
           <div class="col-sm-6">
-          <ul>
+          {{ proj.description }}
+<!--           <ul>
           {% for point in proj.description %}
             <li>{{ point }}</li>
           {% endfor %}
           </ul>
-          </div>
+ -->          </div>
         </div>
       {% endfor %}
       </div>
 
-      <footer>
-<!--         <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>&copy; 2014 Force Projets &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
- -->      </footer>
+      {% include footer.html %}
 
     </div><!-- /.container -->
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
-    <script src="js/bootstrap.js"></script>
-    <script src="js/docs.min.js"></script>
+    {% include scripts.html %}
   </body>
 </html>
