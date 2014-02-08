@@ -1,12 +1,12 @@
-- activite: Structure de Projet
-  projet: Projet Ticonderoga et Abitibi-Belco
+- activite: Mise en place d'une structure de gestion de projet
+  projet: Projets IP et Abitibi-Belgo
   client: Oxycair Technologies
   date: 2007
   image: 
   description: 
   - État de la situation
-  - Responsabilités des différents départements
-  - Processus de gestion de projet
+  - Définition des responsabilités des différents départements
+  - Élaboration des processus de gestion de projet
     - Charte de projet type
     - Plan de gestion de projet type
     - SFT (WBS) type
