@@ -87,6 +87,14 @@ header .lead {
   width: 110px;
 }
 
+.projets h2 {
+  margin-top: 0;
+}
+
+img.projet {
+  width: 100%;
+}
+
 footer {
   height: 200px;
 }

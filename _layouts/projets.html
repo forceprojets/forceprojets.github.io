@@ -29,7 +29,7 @@
   </head>
 
   <body>
-    <div class="container">
+    <div class="container projets">
       <header class="default">
         <img id="logo" src="images/logo-cyan.svg" width="240px" alt="logo">
       </header>
@@ -37,16 +37,16 @@
       <div>
       {% for proj in site.data.projets %}
         <div class="row">
-          <div class="col-sm-2">
-            <img class="img" src="http://placekitten.com/g/250/160" alt="{{ proj.link }}">
+          <div class="col-sm-3">
+            <img class="img projet" src="http://placekitten.com/g/250/160" alt="{{ proj.link }}">
           </div>
-          <div class="col-sm-2">
+          <div class="col-sm-3">
             <h2>{{ proj.activite }}</h2>
             <p>{{ proj.projet }}</p>
             <p>{{ proj.client }}</p>
             <p>{{ proj.date }}</p>
           </div>
-          <div class="col-sm-2">
+          <div class="col-sm-6">
             <p>{{ proj.description }}</p>
           </div><!-- /.col-lg-4 -->
         </div>
