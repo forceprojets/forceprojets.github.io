@@ -13,12 +13,22 @@
     - Échéancier type
   details:
 
-- activite: 
-  projet: 
-  client: 
-  date: 
+- activite: Gestion de l'intégration
+  projet: Programme Trent industriel
+  client: Rolls-Royce Canada (div. Énergie)
+  date: 2001-2007
   image: 
   description: 
+  - Exécution des activités
+  - Suivi et contrôle des projets
+  - Contrôle des changements
+  - Autres activités
+  	- Échéanciers
+    - Suivi des coûts (VA)
+    - Qualité (processus)
+    - Risques
+    - Parties prenantes
+
   details:
 
 - activite: 
