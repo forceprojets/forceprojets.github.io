@@ -1,17 +1,17 @@
 - activite: Structures de projet
   projet: Projets IP et Abitibi-Belgo
-  client: 
+  client: asdf
   date: 2007
   image: 
-  description:
-  Les activités de mise en place d'une structure de projet ont eu lieu dans le cadre d'un emploi avec une entreprise spécialisée dans le traitement des eaux usées et ont consisé en :
-- Faire un état de la situation
-- Établir les responsabilités des différents départements 
-- Élaborer les processus de gestion de projet incluant:
-    - Charte de projet type
-    - Plan de gestion de projet type
-    - SFT (WBS) type
-    - Échéancier type
+  description: >
+      Les activités de mise en place d'une structure de projet ont eu lieu dans le cadre d'un emploi avec une entreprise spécialisée dans le traitement des eaux usées et ont consisé en :
+      - Faire un état de la situation
+      - Établir les responsabilités des différents départements 
+      - Élaborer les processus de gestion de projet incluant:
+          - Charte de projet type
+          - Plan de gestion de projet type
+          - SFT (WBS) type
+          - Échéancier type
   details:
 
 - activite: Gestion de l'intégration
@@ -20,16 +20,15 @@
   date: 2001-2007
   image: 
   description: 
-  - Exécution des activités
-  - Suivi et contrôle des projets
-  - Contrôle des changements
-  - Autres activités
-    - Échéanciers
-    - Suivi des coûts (VA)
-    - Qualité (processus)
-    - Risques
-    - Parties prenantes
-
+    - Exécution des activités
+    - Suivi et contrôle des projets
+    - Contrôle des changements
+    - Autres activités
+      - Échéanciers
+      - Suivi des coûts (VA)
+      - Qualité (processus)
+      - Risques
+      - Parties prenantes
   details:
 
 - activite: Gestion des risques
@@ -38,17 +37,16 @@
   date: 2009-2010
   image: 
   description: 
-  - Plan de gestion
-    - Responsabilités
-    - Méthodologies
-    - Outils
-  - Identification
-  - Analyse (qualitative)
-  - Réponses
-    - Réponse
-    - Action(s)
-  - Contrôle
-
+    - Plan de gestion
+      - Responsabilités
+      - Méthodologies
+      - Outils
+    - Identification
+    - Analyse (qualitative)
+    - Réponses
+      - Réponse
+      - Action(s)
+    - Contrôle
   details:
 
 - activite: Gestion des coûts
@@ -57,18 +55,15 @@
   date: 2009-2010
   image: 
   description:
-  - Mise en place des processus et outils de suivi budgétaire
-    - Plan de gestion des coûts
-    - Méthodes de calcul
-    - Méthodes et outils de budgétisation et contrôle des coûts
-  - Mises à jour du budget de projet
-    - Planification de l’exercice budgétaire
-    - Rencontres et analyses
-    - Mises à jour
-    - Contingence budgétaire
-
-
-
+    - Mise en place des processus et outils de suivi budgétaire
+      - Plan de gestion des coûts
+      - Méthodes de calcul
+      - Méthodes et outils de budgétisation et contrôle des coûts
+    - Mises à jour du budget de projet
+      - Planification de l’exercice budgétaire
+      - Rencontres et analyses
+      - Mises à jour
+      - Contingence budgétaire
   details:
 
 - activite: Gestion de la qualité
@@ -77,14 +72,14 @@
   date: 2008
   image: 
   description: 
-  - Audits de processus
-    - Planification
-    - Exécution
-    - Recommandations
-  - Amélioration d’un processus
-    - Revue
-    - Analyse
-    - Mise en place des correctifs
+    - Audits de processus
+      - Planification
+      - Exécution
+      - Recommandations
+    - Amélioration d’un processus
+      - Revue
+      - Analyse
+      - Mise en place des correctifs
 
   details:
 
