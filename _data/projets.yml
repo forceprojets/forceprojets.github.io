@@ -73,11 +73,11 @@
   image: 
   description: >
     Le mandat a eu lieu au sein du Consortium Énergie Gérance Eastmain et comprenait les activités suivantes:
-      - Audits de processus
+      Audits de processus:
         - Planification
         - Exécution
         - Recommandations
-      - Amélioration d’un processus
+      Amélioration d’un processus:
         - Revue
         - Analyse
         - Mise en place des correctifs
