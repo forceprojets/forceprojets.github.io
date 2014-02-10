@@ -5,9 +5,9 @@ published: false
 ---
 
 ## Mission
-Ajouter de la valeur aux processus et façons de faire des organisations dans leur gestion de projets.
+Ajouter de la valeur aux processus et façons de faire des organisations dans la  gestion de leurs projets.
 
-Participer au développement ou à l’excellence de ces organisations et ainsi contribuer à leur essor et leur rayonnement localement et à l’extérieur du Québec.
+Participer au développement ou à l’excellence de ces organisations et ainsi contribuer à leur essor et à leur rayonnement localement et à l’extérieur du Québec.
 
 
 ## Valeurs
