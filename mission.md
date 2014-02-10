@@ -1,7 +1,7 @@
 ---
 title: Mission et Valeurs
 layout: default
-published: false
+published: true
 ---
 
 ## Mission
