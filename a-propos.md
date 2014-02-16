@@ -1,7 +1,20 @@
 ---
 title: A Propos
-layout: default
+layout: a-propos
 published: true
+
+organisation:
+  nom:		Force Projets
+  localite: Montréal
+  pays:		Canada
+
+contact:
+  nom: 		Louis Duchesne
+  titre: 	ing., MGP, PMP
+  email: 	louis@forceprojets.ca
+  tel: 		515 602 5000
+  linkedin: http://www.linkedin.com/pub/louis-duchesne-ing-mgp-pmp/3/7b9/25b
+
 ---
 
 Force Projets conseils, c’est une expertise spécialisée dans le domaine de la gestion de projets techniques. Son fondateur, Louis Duchesne, possède une vingtaine d’années d’expérience dans divers domaines d’affaires dont l’aéronautique, l’énergie, le bâtiment commercial et industriel, le traitement de l’eau, les alumineries, le ferroviaire ainsi que plusieurs grands projets d’infrastructures publiques.
@@ -12,11 +25,3 @@ M. Duchesne a connu des contextes de projets variés, allant de la petite entrep
 
 Cette expérience, ses connaissances et ses autres capacités spécifiques acquises au fil des projets garantissent aux clients de Force Projets conseils une expertise poussée, au fait des dernières tendances et meilleures pratiques en gestion de projet, mais surtout adaptée au contexte et à la nature des entreprises ou organismes et de leurs projets.
 
-Profil Linked In:
-[http://www.linkedin.com/pub/louis-duchesne-ing-mgp-pmp/3/7b9/25b](http://www.linkedin.com/pub/louis-duchesne-ing-mgp-pmp/3/7b9/25b)
-
-**CONTACT :** Louis Duchesne, Force Projets conseils
-
-**louis@forceprojets.ca**
-
-**514-602-5000**

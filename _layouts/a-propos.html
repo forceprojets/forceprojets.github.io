@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  {% include head.html %}
+  </head>
+
+  <body>
+    <div class="container">
+      <header class="default">
+        {% include header.html %}
+      </header>
+
+      <div>
+      {{ content }}
+      </div>
+
+      <section itemscope itemtype="http://schema.org/Person">
+      <h1 itemprop="name">{{ page.contact.nom }}</h1>
+      <section itemscope itemtype="http://schema.org/organisation">
+      <div itemprop="name">{{ page.organisation.nom }}</div>
+      <span itemprop="addressLocality">{{ page.organisation.localite }}</span>,
+      <span itemprop="addressCountry">{{ page.organisation.pays }}</span>
+      </section>
+      <br>
+      Email: <a itemprop="email" href="mailto:{{ page.contact.email }}">{{ page.contact.email }}</a><br>
+      Tel: <span itemprop="telephone"><a itemprop="" href="tel:+1{{page.contact.tel}}">{{ page.contact.tel }}</a></span>
+      <br><br>
+      <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+      <script type="IN/MemberProfile" data-id="{{ page.contact.linkedin }}" data-format="hover"></script>
+      </section>
+
+      </div>
+      {% include footer.html %}
+
+    </div><!-- /.container -->
+    </div>
+    {% include scripts.html %}
+  </body>
+</html>

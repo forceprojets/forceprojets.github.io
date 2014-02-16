@@ -73,6 +73,10 @@ header .lead {
   text-align: center;
 }
 
+section h1 {
+  font-size: 24px;
+}
+
 .domaines {
   text-align: center;
   margin-top: 80px;
@@ -99,6 +103,7 @@ header .lead {
 img.projet {
   width: 100%;
 }
+
 
 footer {
   height: 200px;
