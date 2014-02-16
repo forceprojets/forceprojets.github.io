@@ -14,7 +14,7 @@
       {% for proj in site.data.projets %}
         <div class="row">
           <div class="col-sm-3">
-            <img class="img projet" src="http://placehold.it/250x160" alt="{{ proj.link }}">
+            <img class="img projet" src="images/{{ proj.image }}" alt="{{ proj.link }}">
           </div>
           <div class="col-sm-3">
             <h2>{{ proj.activite }}</h2>
@@ -23,7 +23,7 @@
             <p>{{ proj.date }}</p>
           </div>
           <div class="col-sm-6">
-          {{ proj.description }}
+          {{ proj.description | markdownify }}
 <!--           <ul>
           {% for point in proj.description %}
             <li>{{ point }}</li>

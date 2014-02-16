@@ -2,25 +2,26 @@
   projet: Projets IP et Abitibi-Belgo
   client: 2007
   date:
-  image: 
-  description: >
-    Les activités de mise en place d'une structure de projet ont eu lieu dans le cadre d'un emploi avec une entreprise spécialisée dans le traitement des eaux usées et ont consisté en : 
-      - Faire un état de la situation
-      - Établir les responsabilités des différents départements 
-      - Élaborer les processus de gestion de projet incluant:
-          - Charte de projet type
-          - Plan de gestion de projet type
-          - SFT (WBS) type
-          - Échéancier type
-  details:
+  image: proj-turbine.jpg
+  description: |
+    Les activités de mise en place d'une structure de projet ont eu lieu dans le cadre d'un emploi avec une entreprise spécialisée dans le traitement des eaux usées et ont consisté en :     
+
+    - Faire un état de la situation
+    - Établir les responsabilités des différents départements 
+    - Élaborer les processus de gestion de projet incluant:
+        - Charte de projet type
+        - Plan de gestion de projet type
+        - SFT (WBS) type
+        - Échéancier type
 
 - activite: Gestion de l'intégration
   projet: Programme Trent industriel
   client: Rolls-Royce Canada (div. Énergie)
   date: 2001-2007
-  image: 
-  description: >
+  image: proj-turbine.jpg
+  description: |
     Dans le cadre d'un emploi au sein de la division Énergie de l'entreprise, la gestion de l'intégration a contribué au succès du programme et a consisté en :
+
       - L'exécution des activités de projet
       - Le suivi et contrôle des projets d'assemblage
       - Le contrôle des changements
@@ -30,57 +31,54 @@
           - Mise en place de processus du système Qualité
           - Gestion des risques de projet
           - Gestion des parties prenantes
-  details:
 
 - activite: Gestion des risques
   projet: Réaménagement de l’échangeur Dorval
   client: Ministère des Transports du Québec
   date: 2009-2010
-  image: 
-  description: >
+  image: proj-echangeur.jpg
+  description: |
     Le mandat comprenaient l'élaboration et la mise en place du plan de gestion. Les activités ont eu lieu au sein d'un consortium de trois grandes firmes d'ingénierie ayant le mandat avec avec le MTQ et comprenaient les éléments suivants :
+
       - Les responsabilités
       - La méthodologie
       - Les outils.
+
     Les activités d'identification, d'analyse (qualitative) et les réponses aux risques étaient réalisées en équipe.
     Le contrôle des risques était réalisé sur une base périodique.
-
-  details:
 
 - activite: Gestion des coûts
   projet: Réaménagement de l’échangeur Dorval
   client: Ministère des Transports du Québec
   date: 2009-2010
-  image: 
-  description: >
+  image: proj-echangeur.jpg
+  description: |
     Les activités comprenaient les éléments suivants:
-      Mise en place des processus et outils de suivi budgétaire:
+
+      - Mise en place des processus et outils de suivi budgétaire:
         - Plan de gestion des coûts
         - Méthodes de calcul
         - Méthodes et outils de budgétisation et contrôle des coûts.
-      Mises à jour du budget de projet:
+      - Mises à jour du budget de projet:
         - Planification de l’exercice budgétaire
         - Rencontres et analyses
         - Mises à jour
         - Contingence budgétaire
 
-  details:
-
 - activite: Gestion de la qualité
   projet: Projet Eastmain-La-Sarcelle
   client: Société d’Énergie de la Baie-James
   date: 2008
-  image: 
-  description: >
+  image: proj-eastmain.jpg
+  description: |
     Le mandat a eu lieu au sein du Consortium Énergie Gérance Eastmain et comprenait les activités suivantes:
-      Audits de processus:
+
+      - Audits de processus:
         - Planification
         - Exécution
         - Recommandations
-      Amélioration d’un processus:
+      - Amélioration d’un processus:
         - Revue
         - Analyse
         - Mise en place des correctifs
-
-  details:
 
