@@ -4,7 +4,7 @@ layout: default
 published: true
 ---
 
-This line should have a specific id {: .foo}
+
 
 ## Mission
 Ajouter de la valeur aux processus et façons de faire des organisations dans la  gestion de leurs projets.
