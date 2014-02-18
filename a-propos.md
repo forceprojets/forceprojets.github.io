@@ -4,7 +4,7 @@ layout: a-propos
 published: true
 
 organisation:
-  nom:		Force Projets
+  nom:		Force Projets conseils
   localite: Montréal
   pays:		Canada
 
@@ -12,7 +12,7 @@ contact:
   nom: 		Louis Duchesne
   titre: 	ing., MGP, PMP
   email: 	louis@forceprojets.ca
-  tel: 		515 602 5000
+  tel: 		514 602 5000
   linkedin: http://www.linkedin.com/pub/louis-duchesne-ing-mgp-pmp/3/7b9/25b
 
 ---

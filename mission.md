@@ -4,8 +4,6 @@ layout: default
 published: true
 ---
 
-
-
 ## Mission
 Ajouter de la valeur aux processus et façons de faire des organisations dans la  gestion de leurs projets.
 
