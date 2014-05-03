@@ -14,8 +14,9 @@ Conseils ou production des livrables suivants reliés aux étapes d’avant-proj
 Let's see if this really is fast.
 Well, it seems to be keeping up ok.
 
+> First this
 > one time  
-> I was  
+> I was
 > on the cups
 
 And this line contains `function(){ int i; }`
@@ -31,7 +32,7 @@ Mise en place ou amélioration des processus et méthodologies reliés aux domai
 - Gestion de l’envergure (contenu);
 
 - Gestion des échéanciers;
-``
+
 - Gestion des coûts;
 
 - Gestion de la qualité;
