@@ -35,14 +35,6 @@ Conseils ou production des livrables suivants reliés aux étapes d’avant-proj
 
 - Gestion des parties prenantes.
 
-### This is a small title
-
- col1 | col2 | col3 
- ------ | :------ | ------ 
- val1 | val2  | val3 
- val1 | some bigger val2 | val3 
-
-
 Évaluation de la maturité en gestion de projet  (audits)
 
 Conseils par rapport à la mise en place d’un bureau de projet
