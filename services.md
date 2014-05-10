@@ -15,7 +15,7 @@ Conseils ou production des livrables suivants reliés aux étapes d’avant-proj
 
 - Analyses de préfaisabilité ou de faisabilité (marché, technique, financière, organisationnelles).
 
-Mise en place ou amélioration des processus et méthodologies reliés aux domaines de connaissance (PMBOK) suivants:
+- Mise en place ou amélioration des processus et méthodologies reliés aux domaines de connaissance (PMBOK) suivants:
 
 - Gestion de l’intégration;
 
