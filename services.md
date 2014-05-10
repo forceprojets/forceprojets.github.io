@@ -11,15 +11,6 @@ Les domaines d’expertise de Force Projets :
 ### La gestion de projet
 Conseils ou production des livrables suivants reliés aux étapes d’avant-projet:
 
-Let's see if this really is fast.
-Well, it seems to be keeping up ok.
-
-> one time  
-> I was  
-> on the cups
-
-And this line contains `function(){ int i; }`
-
 - Définition des besoins;
 
 - Analyses de préfaisabilité ou de faisabilité (marché, technique, financière, organisationnelles).
