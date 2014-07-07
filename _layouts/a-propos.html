@@ -20,9 +20,9 @@
       <div itemprop="name">{{ page.org.nom }}</div>
       <span itemprop="streetAddress">{{ page.org.addr.rue }}</span>
       <br>
-      <span itemprop="addressLocality">{{ page.org.addr.ville }}</span>
+      <span itemprop="addressLocality">{{ page.org.addr.ville }}</span>,
+      <span itemprop="addressRegion">{{ page.org.addr.prov}}</span>
       <br>
-      <span itemprop="addressRegion">{{ page.org.addr.prov}}</span>,
       <span itemprop="postalCode">{{ page.org.addr.code}}</span>
       <br>
       <span itemprop="addressCountry">{{ page.org.addr.pays }}</span>
@@ -30,11 +30,11 @@
       <br>
       Courriel: <a itemprop="email" href="mailto:{{ page.contact.email }}">{{ page.contact.email }}</a>
       <br>
-      Cel: <span itemprop="telephone"><a itemprop="" href="tel:+1{{page.contact.cel}}">{{ page.contact.cel }}</a></span>
-      <br>
-      Tel: <span itemprop="telephone"><a itemprop="" href="tel:+1{{page.contact.tel}}">{{ page.contact.tel }}</a></span>
+      Tél: <span itemprop="telephone"><a itemprop="" href="tel:+1{{page.contact.tel}}">{{ page.contact.tel }}</a></span>
       <br>
       Fax: <span itemprop="faxNumber"><a itemprop="" href="tel:+1{{page.contact.fax}}">{{ page.contact.fax }}</a></span>
+      <br>
+      Cel: <span itemprop="telephone"><a itemprop="" href="tel:+1{{page.contact.cel}}">{{ page.contact.cel }}</a></span>
       <br>
       <br>
       <a href="http://www.linkedin.com/pub/louis-duchesne-ing-mgp-pmp/3/7b9/25b"><img src="images/webicon-linkedin.svg" width="40"></a>
