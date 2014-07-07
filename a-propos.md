@@ -3,17 +3,24 @@ title: A Propos
 layout: a-propos
 published: true
 
-organisation:
+org:
   nom:		Force Projets conseils
-  localite: Montréal
-  pays:		Canada
+  addr:     
+    rue:   4020 rue St-Ambroise, Suite 100
+    ville: Montréal
+    prov:  QC
+    pays:  Canada
+    code:  H4C 2C7
 
 contact:
   nom: 		Louis Duchesne
   titre: 	ing., MGP, PMP
   email: 	louis@forceprojets.ca
-  tel: 		514 602 5000
+  cel:      514 602 5000
+  tel:      514 670 5150
+  fax:      514 670 5149
   linkedin_user: http://www.linkedin.com/pub/louis-duchesne-ing-mgp-pmp/3/7b9/25b
+
 
 ---
 
