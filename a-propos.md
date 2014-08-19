@@ -17,7 +17,7 @@ contact:
   titre: 	ing., MGP, PMP
   email: 	louis@forceprojets.ca
   cel:      514 602 5000
-  tél:      514 670 5150
+  tel:      514 670 5150
   fax:      514 670 5149
   linkedin_user: http://www.linkedin.com/pub/louis-duchesne-ing-mgp-pmp/3/7b9/25b
 
