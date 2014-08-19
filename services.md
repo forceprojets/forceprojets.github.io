@@ -22,7 +22,7 @@ Conseils ou production des livrables suivants reliés aux étapes d’avant-proj
 - Gestion de l’envergure (contenu);
 
 - Gestion des échéanciers;
-``
+
 - Gestion des coûts;
 
 - Gestion de la qualité;
